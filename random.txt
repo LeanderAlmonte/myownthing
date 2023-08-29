@@ -1,2 +1,3 @@
 This is very random
 this is no longer random i know how to do this now
+so basically i use git pull to keep my files up to date:)
