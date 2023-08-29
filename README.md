@@ -21,4 +21,13 @@ i wonder if this is right
 
 
 me too
+<<<<<<< HEAD
 >>>>>>> f95e5b3c71753d644c8b952911eca500c3012902
+=======
+IT MERGED FINALLY YESSS
+>>>>>>> 69ac99de77706d6a04c3307bedf335bd9fd9c25b
+
+
+
+
+im literally insane
